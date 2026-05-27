@@ -158,8 +158,8 @@ const Home = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.5 }}
       >
-        <h1 className="text-white text-7xl font-bold">Hello</h1>
-        <p className="text-white text-6xl font-bold">Cappuccino!</p>
+        <h1 className="text-white text-5xl font-bold">Hello</h1>
+        <p className="text-white text-4xl font-bold">Cappuccino!</p>
         <motion.p
           className="text-white text-md mt-4"
           initial={{ opacity: 0 }}
